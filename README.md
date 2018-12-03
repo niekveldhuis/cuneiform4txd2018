@@ -4,3 +4,8 @@ This repository provides word embeddings in Sumerian and Akkadian. The embedding
 
 # The challenge
 Is it possible to align Sumerian and Akkadian?
+
+# Try it out yourself!
+Run the code yourself to try it out by clicking on the Binder button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/niekveldhuis/cuneiform4txd2018/master)
